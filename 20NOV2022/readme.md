@@ -1,7 +1,6 @@
+## Value Sort
 
-#Today's Byte
-
-**Given an integer array, nums, sort the array in increasing order based on frequency of elements. If two numbers appear the same number of times, sort them by their value in decreasing order. **
+**Given an integer array, nums, sort the array in increasing order based on frequency of elements. If two numbers appear the same number of times, sort them by their value in decreasing order.**
 
 Ex: Given the following nums…
 ```
