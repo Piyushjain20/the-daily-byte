@@ -10,6 +10,3 @@ Ex: Given the following nums…
 ```
 nums = [5, 2, 4, 4, 9, 2, 2], return [9,5,4,4,2,2,2].
 ```
-
-Thanks,
-The Daily Byte
